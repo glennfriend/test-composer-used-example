@@ -1,0 +1,39 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e65a82b59380cfd83d3721ae4acdb23c",
+    "content-hash": "24b3882448b7148ccc652a907961cd57",
+    "packages": [
+        {
+            "name": "myname/HelloWorld",
+            "version": "1.0.0",
+            "dist": {
+                "type": "path",
+                "url": "./library/HelloWorld/",
+                "reference": "e00905ac4e86b82b6bb96ae4cd0d1c53",
+                "shasum": null
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "HelloWorld\\": "src/"
+                }
+            },
+            "description": "my desc"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
