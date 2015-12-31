@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name":    "myname/HelloWorld",
+    "name":    "myname/hello-world",
     "require" : {
         "HelloWorld": "*"
     },
