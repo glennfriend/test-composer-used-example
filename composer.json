@@ -1,11 +1,12 @@
 {
+    "name": "myname/HelloWorld",
     "require" : {
-        "myname/HelloWorld": "*"
+        "HelloWorld": "*"
     },
     "repositories": [
         {
             "type": "path",
-            "url": "./library/HelloWorld"
+            "url": "./src/HelloWorld"
         }
     ]
 }

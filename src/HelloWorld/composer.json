@@ -1,6 +1,6 @@
 {
     "version":      "1.0.0",
-    "name":         "myname/HelloWorld",
+    "name":         "HelloWorld",
     "description":  "my desc",
     "require": {
         "php": ">=5.5"
