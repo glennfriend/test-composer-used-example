@@ -4,36 +4,17 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c4a02cb085b171df163c0989c062a0a5",
-    "content-hash": "8c3d6478f2aa5af85b0df4c388fd3465",
-    "packages": [
-        {
-            "name": "hello-world",
-            "version": "1.0.0",
-            "dist": {
-                "type": "path",
-                "url": "./src/HelloWorld/",
-                "reference": "f650955d7a5c24e02a08c3fec862c78d",
-                "shasum": null
-            },
-            "require": {
-                "php": ">=5.5"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "HelloWorld\\": "src/"
-                }
-            },
-            "description": "my desc"
-        }
-    ],
+    "hash": "203dfc120e3bc6ed9c569bc4ec3fcb01",
+    "content-hash": "8004901727735ed117d90f88257e930f",
+    "packages": [],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=5.5"
+    },
     "platform-dev": []
 }

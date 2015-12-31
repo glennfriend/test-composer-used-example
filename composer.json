@@ -1,14 +1,13 @@
 {
     "name": "myname/hello-world",
+    "type": "library",
+    "description": "is library",
     "require" : {
-        "hello-world": "*"
+        "php": ">=5.5"
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "./src/HelloWorld"
-        }
-    ],
+    "autoload": {
+        "psr-4": { "HelloWorld\\": "src/HelloWorld" }
+    },
     "minimum-stability": "dev",
     "prefer-stable" : true
 }
