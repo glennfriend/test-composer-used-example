@@ -1,6 +1,5 @@
 {
-    "version": "1.0.0",
-    "name":    "myname/hello-world",
+    "name": "myname/hello-world",
     "require" : {
         "hello-world": "*"
     },
@@ -9,5 +8,7 @@
             "type": "path",
             "url": "./src/HelloWorld"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable" : true
 }

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d84b99e5c202a28a187810b1f9f22ad1",
-    "content-hash": "c0420b5c4d858dacc9f439be59bbfa78",
+    "hash": "c4a02cb085b171df163c0989c062a0a5",
+    "content-hash": "8c3d6478f2aa5af85b0df4c388fd3465",
     "packages": [
         {
             "name": "hello-world",
@@ -13,7 +13,7 @@
             "dist": {
                 "type": "path",
                 "url": "./src/HelloWorld/",
-                "reference": "222a8ef46526303520f7d4bcd92de82f",
+                "reference": "f650955d7a5c24e02a08c3fec862c78d",
                 "shasum": null
             },
             "require": {
@@ -30,9 +30,9 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
