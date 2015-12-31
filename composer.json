@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "name":    "myname/hello-world",
     "require" : {
-        "HelloWorld": "*"
+        "hello-world": "*"
     },
     "repositories": [
         {

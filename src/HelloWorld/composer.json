@@ -10,10 +10,6 @@
             "HelloWorld\\": "src/"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "dev"
-        }
-    },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable" : true
 }

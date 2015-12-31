@@ -1,12 +1,12 @@
 [
     {
-        "name": "HelloWorld",
+        "name": "hello-world",
         "version": "1.0.0",
         "version_normalized": "1.0.0.0",
         "dist": {
             "type": "path",
             "url": "./src/HelloWorld/",
-            "reference": "b9578529c5727ff3d7ebe6b6604831f2",
+            "reference": "222a8ef46526303520f7d4bcd92de82f",
             "shasum": null
         },
         "require": {
